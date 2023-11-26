@@ -23,8 +23,8 @@
   "homepage": "https://github.com/Chatie/wechaty-getting-started#readme",
   "dependencies": {
     "qrcode-terminal": "^0.12.0",
-    "wechaty": "^0.19.137",
-    "wechaty-puppet-padpro": "^0.0.50"
+    "wechaty": "^0.69.15",
+    "wechaty-puppet-padpro": "^0.3.1"
   },
   "devDependencies": {
     "check-node-version": "^3.2.0"
